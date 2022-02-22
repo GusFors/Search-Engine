@@ -6,7 +6,6 @@ const searcher = {
   readFiles: [],
 }
 
-// KOLLA PÅ FOR OF LOOPAR ISTÄLLET FÖR VANLIGA FOR TILL NÄSTA GÅNG
 searcher.query = (searchQuery, includeLocation) => {
   if (!searcher.scanned) {
     searcher.scanned = true
