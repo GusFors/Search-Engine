@@ -1,0 +1,22 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+
+  padding-top: 10%;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+a:link, a:visited  {
+  color: rgb(198, 246, 255);
+  text-decoration: none;
+  
+}
+
+a:hover {
+  color: rgb(20, 80, 148);
+}

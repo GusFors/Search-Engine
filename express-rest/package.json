@@ -1,0 +1,17 @@
+{
+  "name": "a3-search-engine",
+  "version": "1.0.0",
+  "description": "* In this assignment, you shall implement a basic search engine for Wikipedia articles.\r * You can use any programming language you like.\r * ~~You can work alone or in a group of two students.~~\r * You shall present your application and code at an oral examination.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GusFors",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
